@@ -170,8 +170,8 @@ const C = {
   brass: "#C9973F",
   brassDim: "#8E6C2E",
   rust: "#BE6A4A",
-  sage: "#8BA37E",
-  grid: "rgba(237,231,214,0.08)",
+  sage: "#93ad86",
+  grid: "rgba(242, 234, 213, 0.08)",
   line: "rgba(237,231,214,0.14)",
 };
 
